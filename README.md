@@ -9,6 +9,7 @@ written in python using pygame for input and basic graphics output
 
 Move the mouse around and the circle will be pulled towards the mouse
 Use the WIDTH and HEIGHT variables to change the screen size
+Press the SPACEBAR to see the vectors
 
 
 Feel free to do whatever you would like with this
